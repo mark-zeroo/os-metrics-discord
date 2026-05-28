@@ -116,6 +116,5 @@ sudo systemctl enable --now os-reporter.timer
 
 ## Security Assessment & Hardening Standards
 
-    Least Privilege Enforcement: This script does not invoke administrative commands (sudo/SYSTEM) and should always execute inside a highly restricted, non-root user service loop (monitoring_agent).
-
-    Transport Cryptography: All communication payloads routed to the webhook ingest target are strictly encapsulated within TLS 1.3 tunnels orchestrated automatically via the requests transport engine.
+- Least Privilege Enforcement: This script does not invoke administrative commands (sudo/SYSTEM) and should always execute inside a highly restricted, non-root user service loop (monitoring_agent).
+- Transport Cryptography: All communication payloads routed to the webhook ingest target are strictly encapsulated within TLS 1.3 tunnels orchestrated automatically via the requests transport engine.
