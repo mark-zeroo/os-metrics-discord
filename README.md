@@ -32,8 +32,8 @@ The system requires an active interpreter mapping to a modern, supported release
 
 Initialize local tracking of the codebase:
 ```bash
-git clone [https://github.com/YOUR_USERNAME/os-metric-reporter.git](https://github.com/YOUR_USERNAME/os-metric-reporter.git)
-cd os-metric-reporter
+git clone [https://github.com/mark-zeroo/os-metrics-discord.git](https://github.com/mark-zeroo/os-metrics-discord.git)
+cd os-metrics-discord
 ```
 
 ### Initialize the Isolated Virtual Environment
