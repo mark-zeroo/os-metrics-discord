@@ -32,7 +32,7 @@ The system requires an active interpreter mapping to a modern, supported release
 
 Initialize local tracking of the codebase:
 ```bash
-git clone [https://github.com/mark-zeroo/os-metrics-discord.git](https://github.com/mark-zeroo/os-metrics-discord.git)
+git clone https://github.com/mark-zeroo/os-metrics-discord.git
 cd os-metrics-discord
 ```
 
