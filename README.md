@@ -1,8 +1,6 @@
 # Linux OS Telemetry & Metrics Daemon
 
-A lightweight, automated system monitoring utility written in Python that captures host infrastructure metrics—including virtual memory allocation, logical storage utilization, and network interface states—and dispatches structured cryptographic/telemetry alerts to an enterprise SIEM dashboard or Discord monitoring channel via secure webhook ingestion vectors.
-
-This repository demonstrates production-grade dependency isolation, defensive exception handling against erratic OS kernel bindings, and deterministic configuration management required for secure DevOps and SecOps deployments.
+A lightweight, automated system monitoring utility written in Python that captures host infrastructure metrics—including virtual memory allocation, logical storage utilization, and network interface states—and dispatches structured telemetry and metrics alerts to a Discord monitoring channel via secure webhook ingestion vectors.
 
 ## Architectural Overview
 
