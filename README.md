@@ -1,4 +1,4 @@
-# Cross-Platform OS Telemetry & Metrics Daemon
+# Linux OS Telemetry & Metrics Daemon
 
 A lightweight, automated system monitoring utility written in Python that captures host infrastructure metrics—including virtual memory allocation, logical storage utilization, and network interface states—and dispatches structured cryptographic/telemetry alerts to an enterprise SIEM dashboard or Discord monitoring channel via secure webhook ingestion vectors.
 
